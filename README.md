@@ -49,6 +49,8 @@
 - Wazuh, Suricata, Elastic Stack, Splunk
 - Kali Linux, Windows Server, Ubuntu, pfSense
 - Git, GitHub, Markdown documentation
+- Amass, Metasploitable, Whonix, Parrot, Wazuh
+- Dirb, Dirbuster, Spiderfoot, Photon, Nuclei, FFUF 
 
 ---
 
