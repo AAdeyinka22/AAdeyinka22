@@ -2,8 +2,9 @@
 
 👋 Hello! I’m **Martins Adeyanju**, a results-driven Cybersecurity Analyst with over two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
-Professional Summary
-Information Security & Risk Professional with over 3+ years of experience driving cybersecurity,governance, risk management, compliance, and data protection initiatives. Experienced in leading security audits, risk assessments, compliance reviews, and data privacy impact assessments across healthcare,financial services, and IT sectors. Skilled in mapping security strategies to business objectives and ensuring adherence to ISO 27001, GDPR, PCI-DSS, and NIST CSF frameworks. Adept at shaping security policies, guiding stakeholders on regulatory requirements, and embedding compliance practices into daily operations.Known for a pragmatic, detail-oriented approach, strong stakeholder engagement, and ensuring organizations remain audit-ready and resilient against emerging risks.
+## 🛡 Professional Experience
+
+With years of experience driving cybersecurity,governance, risk management, compliance, and data protection initiatives. Experienced in leading security audits, risk assessments, compliance reviews, and data privacy impact assessments across healthcare,financial services, and IT sectors. Skilled in mapping security strategies to business objectives and ensuring adherence to ISO 27001, GDPR, PCI-DSS, and NIST CSF frameworks. Adept at shaping security policies, guiding stakeholders on regulatory requirements, and embedding compliance practices into daily operations.Known for a pragmatic, detail-oriented approach, strong stakeholder engagement, and ensuring organizations remain audit-ready and resilient against emerging risks.
 
 ---
 
