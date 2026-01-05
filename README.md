@@ -62,7 +62,7 @@ With years of experience driving cybersecurity,governance, risk management, comp
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/AAdeyinka22/enterprise-cybersecurity-homelab/blob/main/Adeyinka%20Virtual%20IT%20Lab%20at%20Home.docx) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/AAdeyinka22/Setting-Up-A-Home-Virtual-Lab) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
