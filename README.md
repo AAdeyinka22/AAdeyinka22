@@ -11,7 +11,7 @@ With years of experience driving cybersecurity,governance, risk management, comp
 ## 🛡 Project Highlights
 
 ### Lab Foundations
-- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
+- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion) [view project](https://github.com/AAdeyinka22/Setting-Up-A-Home-Virtual-Lab)
 - **Installing and hardening Active Directory Project** [view project](https://github.com/AAdeyinka22/Active-Directory-Simulation---CyberTech-Solutions)
 
 
