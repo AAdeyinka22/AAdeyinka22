@@ -12,7 +12,7 @@ With years of experience driving cybersecurity,governance, risk management, comp
 
 ### Lab Foundations
 - **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
-- **Installing and hardening Active Directory Project**
+- **Installing and hardening Active Directory Project** [view project](https://github.com/AAdeyinka22/Active-Directory-Simulation---CyberTech-Solutions)
 
 
 ### Identity & Access Security
