@@ -12,11 +12,10 @@ With years of experience driving cybersecurity,governance, risk management, comp
 
 ### Lab Foundations
 - **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion) [view project](https://github.com/AAdeyinka22/Setting-Up-A-Home-Virtual-Lab)
-- **Installing and hardening Active Directory Project** [view project](https://github.com/AAdeyinka22/Active-Directory-Simulation---CyberTech-Solutions)
 
 
 ### Identity & Access Security
-- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
+- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs [view project](https://github.com/AAdeyinka22/Active-Directory-Simulation---CyberTech-Solutions)
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
