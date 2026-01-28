@@ -17,7 +17,7 @@ With years of experience driving cybersecurity,governance, risk management, comp
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs [view project](https://github.com/AAdeyinka22/Active-Directory-Simulation---CyberTech-Solutions)
 
-- ### AWS Deployment
+### AWS Deployment
 - **AWS Deployment** –  Configuration and hardening Cloud console in AWS [view project](https://github.com/AAdeyinka22/AWS-Deployment-Configuration-and-Hardening-Cloud-Console)
 
 ### Vulnerability & Risk Management
