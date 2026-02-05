@@ -20,6 +20,9 @@ With years of experience driving cybersecurity,governance, risk management, comp
 ### AWS Deployment
 - **AWS Deployment** –  Configuration and hardening Cloud console in AWS [view project](https://github.com/AAdeyinka22/AWS-Deployment-Configuration-and-Hardening-Cloud-Console)
 
+### Enterprise-Security-Policy-Development
+- **Security Policy Development** -  Crafting AUP, IMP, NDM and PAM policies [view project](https://github.com/AAdeyinka22/enterprise-security-policy-development)
+
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
 - **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
