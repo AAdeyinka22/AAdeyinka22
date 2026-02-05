@@ -68,7 +68,7 @@ With years of experience driving cybersecurity,governance, risk management, comp
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/AAdeyinka22/Setting-Up-A-Home-Virtual-Lab) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/AAdeyinka22/Active-Directory-Simulation---CyberTech-Solutions) |
 | 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/AAdeyinka22/AWS-Deployment-Configuration-and-Hardening-Cloud-Console) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/AAdeyinka22/enterprise-security-policy-development) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
