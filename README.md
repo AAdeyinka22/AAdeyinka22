@@ -25,7 +25,7 @@ With years of experience driving cybersecurity,governance, risk management, comp
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies [view project](https://github.com/AAdeyinka22/enterprise-security-policy-development)
-- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto [view project](https://github.com/AAdeyinka22/Vulnerability-Assessment-Environment/blob/main/Adeyinka%20Adeyanju%20Vulnerability%20Assessment%20Report.pdf)
+- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto [view project](https://github.com/AAdeyinka22/Vulnerability-Assessment)
 - **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
 ### Detection & Monitoring
