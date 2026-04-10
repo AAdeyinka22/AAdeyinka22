@@ -29,13 +29,13 @@ With years of experience driving cybersecurity,governance, risk management, comp
 - **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
 ### Detection & Monitoring
-- **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk
+- **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk 
 - **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
 - **Suricata IDS Deployment** – Signature-based intrusion detection
 - **Honeypot Deployment** – Capturing and analysing attacker behaviour
 
 ### Threat Hunting & Framework Mapping
-- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
+- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections [view project](https://github.com/AAdeyinka22/Mitre-Attck-APT-Threat-Hunting)
 
 ### Social Engineering Defence
 - **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
