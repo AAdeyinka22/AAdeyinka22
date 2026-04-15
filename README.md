@@ -38,8 +38,8 @@ With years of experience driving cybersecurity,governance, risk management, comp
 - **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections [view project](https://github.com/AAdeyinka22/Mitre-Attck-APT-Threat-Hunting)
 
 ### Social Engineering Defence
-- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
-- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
+- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher [view project](https://github.com/AAdeyinka22/Phishing-Attack-Simulation-Malware-Analysis)
+- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation [view project](https://github.com/AAdeyinka22/Phishing-Attack-Simulation-Malware-Analysis)
 
 ### Offensive Security Simulations
 - **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
