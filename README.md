@@ -30,7 +30,7 @@ With years of experience driving cybersecurity,governance, risk management, comp
 
 ### Detection & Monitoring
 - **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk 
-- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
+- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues [view project](https://github.com/AAdeyinka22/-Linux_User_Group_and_File_Permission/tree/main))
 - **Suricata IDS Deployment** – Signature-based intrusion detection
 - **Honeypot Deployment** – Capturing and analysing attacker behaviour
 
