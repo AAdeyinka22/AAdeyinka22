@@ -42,7 +42,7 @@ With years of experience driving cybersecurity,governance, risk management, comp
 - **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation [view project](https://github.com/AAdeyinka22/Phishing-Attack-Simulation-Malware-Analysis)
 
 ### Offensive Security Simulations
-- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
+- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests [view project](https://github.com/AAdeyinka22/SQL-Injection-Security-Assessment-Exploitation-Validation/tree/main))
 
 ### Malware & Exploit Analysis
 - **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
