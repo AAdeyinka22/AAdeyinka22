@@ -42,7 +42,7 @@ With years of experience driving cybersecurity,governance, risk management, comp
 - **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation [view project](https://github.com/AAdeyinka22/Phishing-Attack-Simulation-Malware-Analysis)
 
 ### Offensive Security Simulations
-- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests [view project](https://github.com/AAdeyinka22/SQL-Injection-Security-Assessment-Exploitation-Validation/tree/main))
+- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests [view project](https://github.com/AAdeyinka22/SQL-Injection-Security-Assessment-Exploitation-Validation/tree/main)
 
 ### Malware & Exploit Analysis
 - **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
@@ -79,7 +79,7 @@ With years of experience driving cybersecurity,governance, risk management, comp
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/AAdeyinka22/Phishing-Attack-Simulation-Malware-Analysis) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/AAdeyinka22/Phishing-Attack-Simulation-Malware-Analysis) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/AAdeyinka22/-Linux_User_Group_and_File_Permission/tree/main) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo]([view project](https://github.com/AAdeyinka22/SQL-Injection-Security-Assessment-Exploitation-Validation/tree/main)) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
 
